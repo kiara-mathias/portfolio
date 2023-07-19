@@ -1,0 +1,150 @@
+*{
+    border:border-box;
+    margin: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.nav-bar
+{
+    background-color: #6C63FF;
+    color:white;
+    border: 1px solid transparent;
+    border-bottom-left-radius:20px;
+
+    height: 100px;
+}
+.nav-bar h2{
+    font-weight: 700;
+}
+.home{
+    font-weight: 700;
+    color:azure
+}
+
+.list{
+    list-style: none;
+    text-align:right;
+}
+.inline{
+    display: inline;
+    padding: 0rem,0.5rem;
+  color: white;
+}
+
+ul a:hover{
+    font-weight: 700;
+}
+ul a:active{
+    font-weight: 700;
+    color:azure
+}
+
+.image1{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    height: 300px;
+    width: 600px;
+    justify-content: center;
+    display: flex;
+    margin-left: 15rem;
+}
+
+.up{
+    text-align: center;
+    color: grey;
+    font-weight: 900;
+  
+}
+.down{
+    text-align: center;
+    color: #6C63FF;
+    font-weight: 900;
+}
+.off-white1{
+ background-color: rgba(244, 243, 225, 0.795);
+ color: black;
+ border: 2px solid transparent;
+ height: 200px;
+ border-radius: 20px;
+ margin-left: 2rem;
+ margin-top: 1rem;
+
+}
+.off-white1 h1{
+    font-weight: 900rem;
+ 
+}
+.off-white1 p{
+    font-size: 1.2rem;
+    font-weight: 500rem;
+    margin-bottom: 1rem;
+}
+.white h1{
+    font-weight: 900rem;
+ 
+}
+.white p{
+    font-size: 1.2rem;
+    font-weight: 500rem;
+    margin-bottom: 1rem;
+}
+.white{
+    background-color:white;
+    color: black;
+    border: 2px solid transparent;
+    height: 200px;
+    border-radius: 20px;
+    margin-left: 2rem;
+    margin-top: 1rem;
+   }
+   footer
+   {
+       background-color: #6C63FF;
+       color:white;
+       border: 1px solid transparent;
+       border-top-right-radius:20px;
+       border-top-left-radius:20px;
+    margin-top: 2rem;
+       height: 150px;
+   }
+ .foot-list{
+    list-style: none;
+    text-align:center;
+}
+.foot-inline{
+    display: inline;
+    padding: 0rem,0.5rem;
+  color: white;
+}
+.button {
+    background-color: #6C63FF; 
+    border: none;
+    color: white;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 1px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button {
+    background-color: white; 
+   
+    border: 2px solid #6C63FF;
+    margin-top: 1rem ;
+  }
+  
+  .button:hover {
+    background-color: #6C63FF;
+    
+  }
+  .pro a{
+    color: black; 
+  }
+  a:hover{
+    color: white;
+  }
+  
